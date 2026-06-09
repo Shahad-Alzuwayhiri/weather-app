@@ -19,7 +19,6 @@ A simple and responsive weather application that provides real-time weather info
 * JavaScript (ES6)
 * OpenWeatherMap API
 
-## 📸 Preview
 
 ## 📸 Preview
 
@@ -33,14 +32,14 @@ A simple and responsive weather application that provides real-time weather info
   <img src="image/preview.png" width="300">
 </p>
 
-> Replace `preview.png` with a screenshot of your application.
+> 
 
 ## 📦 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Shahad-Alzuwayhiri/weather-app.git
+git clone https://github.com/Shahad-Alzuwayhiri/weather-app
 ```
 
 Open the project folder and run:
