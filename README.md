@@ -24,6 +24,9 @@ A simple and responsive weather application that provides real-time weather info
 <p align="center">
   <img src="image/preview.png" width="350">
 </p>
+<p align="center">
+  <img src="image/preview.gif" width="350">
+</p>
 
 > Replace `preview.png` with a screenshot of your application.
 
