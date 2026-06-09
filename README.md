@@ -21,11 +21,16 @@ A simple and responsive weather application that provides real-time weather info
 
 ## 📸 Preview
 
+## 📸 Preview
+
+### Demo
 <p align="center">
-  <img src="image/preview.png" width="350">
+  <img src="image/preview.gif" width="450">
 </p>
+
+### Screenshot
 <p align="center">
-  <img src="image/preview.gif" width="350">
+  <img src="image/preview.png" width="300">
 </p>
 
 > Replace `preview.png` with a screenshot of your application.
