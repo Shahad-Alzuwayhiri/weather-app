@@ -1,4 +1,11 @@
 # 🌤️ Weather App
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://shahad-alzuwayhiri.github.io/weather-app/" target="_blank">
+    🌐 Click here to view the app
+  </a>
+</p>
 
 A simple and responsive weather application that provides real-time weather information for cities around the world using the OpenWeatherMap API.
 
